@@ -1,4 +1,4 @@
-# All-Valid-Parenthesis-Pair
+# All valid parenthesis-pair
 
 Example : <br>
     n=2, <b>(())  ()()</b><br>
